@@ -28,10 +28,10 @@ Every 3 hours:
                   ⮑ Cache results to prevent reposting
 ```
 📦 Requirements
-	•	Python 3.8+
-	•	xAI SDK (xai_sdk)
-	•	Tweepy (tweepy)
-	•	Regex (regex)
-	•	Schedule (schedule)
-	•	Requests (requests)
-	•	python-dotenv
+- **Python 3.8+
+- **xAI SDK (xai_sdk)
+- **Tweepy (tweepy)
+- **Regex (regex)
+- **Schedule (schedule)
+- **Requests (requests)
+- **python-dotenv
