@@ -27,8 +27,10 @@ Every 3 hours:
               ⮑ (Optional) Post to Telegram
                   ⮑ Cache results to prevent reposting
 ```
+---
 
 ## 📦 Requirements
+
 - **Python 3.8+
 - **xAI SDK (xai_sdk)
 - **Tweepy (tweepy)
